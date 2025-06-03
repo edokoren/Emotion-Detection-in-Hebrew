@@ -27,7 +27,6 @@ The model is fine-tuned on a translated version of the [Kaggle Emotion Dataset](
 ├── model/                       # Saved model and tokenizer
 ├── inference_examples/          # Inference and log images
 └── README.md                    # Project description
-```
 
 ## 📊 Methodology
 
@@ -66,7 +65,7 @@ We computed the following metrics on the test set:
 
 git clone https://github.com/your-username/HeBERT-Emotion-Classification.git
 cd HeBERT-Emotion-Classification
-```
+
 
 2. Install dependencies:
 
@@ -83,7 +82,7 @@ jupyter notebook heb_emotion_classifier.ipynb
 
 - Yotam Hasid  
 - Amit Keinan  
-- Ido Koren
+- Edo Koren
 
 ## 📌 Acknowledgements
 
