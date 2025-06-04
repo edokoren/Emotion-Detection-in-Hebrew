@@ -21,12 +21,8 @@ The model is fine-tuned on a translated version of the [Kaggle Emotion Dataset](
 
 ## 📁 Project Structure
 
+![image](https://github.com/user-attachments/assets/d81fd5c2-d5a3-4b90-9c7a-39d3b1e21610)
 
-├── train_1000.txt                # Training data (translated to Hebrew)
-├── heb_emotion_classifier.ipynb # Colab notebook with full pipeline
-├── model/                       # Saved model and tokenizer
-├── inference_examples/          # Inference and log images
-└── README.md                    # Project description
 
 ## 📊 Methodology
 
