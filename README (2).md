@@ -8,17 +8,7 @@ This project implements a fine-tuned version of [HeBERT](https://huggingface.co/
 
 ## 📦 Project Structure
 
-
-emotion-detection-hebrew/
-│
-├── train_model.py              # Fine-tunes HeBERT on labeled emotion data
-├── inference.py                # Runs inference on test set, generates graphs
-├── train_balanced_750.txt      # Training dataset (750 samples, balanced)
-├── test.txt                    # Evaluation dataset (10–100 examples)
-├── hebert_emotion_trained/     # Saved fine-tuned model
-├── confusion_matrix.png        # Confusion matrix heatmap (saved by inference)
-├── f1_scores.png               # F1 score bar chart (saved by inference)
-├── README.md                   # Project description (this file)
+![image](https://github.com/user-attachments/assets/9960f3e3-fd9a-4ffa-aa33-4195790ba6fa)
 
 
 ---
@@ -49,7 +39,7 @@ This will:
 ---
 
 ## 📊 Results (sample of 50 test sentences)
-
+- ✅ Accuracy: 0.3400
 - 📉 **F1 Score per Emotion:**
 
   ![F1 Scores](f1_scores.png)
@@ -77,7 +67,8 @@ I'm smiling from ear to ear;joy
 ## ✍️ Author
 
 - **Yotam Hassid** 
-
+- **Amit Keinan**
+- **Edo Koren**
   NLP Course Project – 2025  
   HIT – Holon Institute of Technology
 
