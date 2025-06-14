@@ -42,11 +42,13 @@ This will:
 
 - 📉 **F1 Score per Emotion:**
 
-  ![F1 Scores](f1_scores.png)
+  ![image](https://github.com/user-attachments/assets/0e66f714-e8fc-4d7b-b432-f5b5620ba9bd)
+
 
 - 🔄 **Confusion Matrix:**
 
-  ![Confusion Matrix](confusion_matrix.png)
+  ![image](https://github.com/user-attachments/assets/0a23afd8-3b25-41dd-8a9f-18e0ac22f1f9)
+
 
 ---
 
