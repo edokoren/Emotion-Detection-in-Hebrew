@@ -1,0 +1,750 @@
+What a shock! (example 34);surprise
+This situation is terrifying. (example 13);fear
+I feel so connected to you. (example 118);love
+This makes me furious. (example 14);anger
+I'm smiling from ear to ear. (example 61);joy
+I can't believe this happened! (example 78);anger
+I feel so connected to you. (example 84);love
+Wow, I didn't expect that! (example 98);surprise
+I'm full of anxiety. (example 30);fear
+I'm feeling really down. (example 37);sadness
+This made my day amazing. (example 94);joy
+This situation is terrifying. (example 88);fear
+Everything is going my way! (example 8);joy
+Wow, I didn't expect that! (example 75);surprise
+I feel so happy today! (example 53);joy
+I feel so connected to you. (example 72);love
+Life is beautiful and full of joy. (example 110);joy
+I feel so connected to you. (example 58);love
+What if something bad happens? (example 66);fear
+This situation is terrifying. (example 116);fear
+My heart is full of love. (example 18);love
+My heart is full of love. (example 54);love
+I feel so happy today! (example 25);joy
+I can't believe this happened! (example 23);anger
+That was totally unexpected. (example 112);surprise
+What a shock! (example 64);surprise
+This makes me furious. (example 104);anger
+That was totally unexpected. (example 77);surprise
+You're everything to me. (example 103);love
+My heart is full of love. (example 99);love
+This makes me furious. (example 41);anger
+It's a gloomy and sad day. (example 112);sadness
+My heart is full of love. (example 81);love
+Everything is so frustrating. (example 103);anger
+I feel so connected to you. (example 50);love
+This situation is terrifying. (example 77);fear
+I'm really scared right now. (example 52);fear
+This situation is terrifying. (example 55);fear
+Everything is going my way! (example 3);joy
+This pain won't go away. (example 80);sadness
+This pain won't go away. (example 36);sadness
+Wow, I didn't expect that! (example 51);surprise
+This makes me furious. (example 62);anger
+I feel so alone right now. (example 59);sadness
+I'm really scared right now. (example 82);fear
+That was totally unexpected. (example 9);surprise
+Everything is so frustrating. (example 49);anger
+That was totally unexpected. (example 70);surprise
+I can't believe this happened! (example 87);anger
+What if something bad happens? (example 75);fear
+My heart is full of love. (example 125);love
+My heart is full of love. (example 108);love
+I'm really scared right now. (example 115);fear
+This pain won't go away. (example 45);sadness
+I want to scream! (example 9);anger
+Life is beautiful and full of joy. (example 105);joy
+It's a gloomy and sad day. (example 31);sadness
+Unbelievable! (example 99);surprise
+My heart is full of love. (example 91);love
+It's a gloomy and sad day. (example 13);sadness
+This situation is terrifying. (example 45);fear
+I love you so much. (example 75);love
+This pain won't go away. (example 67);sadness
+I'm feeling really down. (example 116);sadness
+That was totally unexpected. (example 19);surprise
+I'm really scared right now. (example 113);fear
+Everything is so frustrating. (example 11);anger
+This makes me furious. (example 40);anger
+I'm smiling from ear to ear. (example 119);joy
+You're everything to me. (example 31);love
+Everything is going my way! (example 31);joy
+I want to scream! (example 60);anger
+That was totally unexpected. (example 117);surprise
+I feel so alone right now. (example 109);sadness
+This makes me furious. (example 122);anger
+I'm feeling really down. (example 39);sadness
+Tears keep falling. (example 4);sadness
+I'm full of anxiety. (example 90);fear
+Unbelievable! (example 116);surprise
+Everything is so frustrating. (example 35);anger
+I'm smiling from ear to ear. (example 96);joy
+I can't stop shaking. (example 46);fear
+I can't believe this happened! (example 64);anger
+Life is beautiful and full of joy. (example 55);joy
+I'm really scared right now. (example 7);fear
+That was totally unexpected. (example 74);surprise
+I'm full of anxiety. (example 97);fear
+That was totally unexpected. (example 83);surprise
+Unbelievable! (example 23);surprise
+This made my day amazing. (example 56);joy
+I feel so happy today! (example 113);joy
+My heart is full of love. (example 9);love
+I'm smiling from ear to ear. (example 67);joy
+I'm smiling from ear to ear. (example 54);joy
+I'm really scared right now. (example 99);fear
+I'm feeling really down. (example 49);sadness
+I love you so much. (example 116);love
+I'm smiling from ear to ear. (example 104);joy
+I'm feeling really down. (example 28);sadness
+What a shock! (example 105);surprise
+I'm really scared right now. (example 98);fear
+This situation is terrifying. (example 76);fear
+I love you so much. (example 109);love
+This situation is terrifying. (example 87);fear
+Everything is going my way! (example 114);joy
+Wow, I didn't expect that! (example 115);surprise
+I'm really scared right now. (example 89);fear
+This is pure affection. (example 61);love
+This is pure affection. (example 1);love
+Unbelievable! (example 84);surprise
+I can't believe this happened! (example 77);anger
+Tears keep falling. (example 65);sadness
+I love you so much. (example 96);love
+I love you so much. (example 113);love
+I'm full of anxiety. (example 48);fear
+I love you so much. (example 67);love
+I feel so happy today! (example 12);joy
+I love you so much. (example 7);love
+My heart is full of love. (example 106);love
+This pain won't go away. (example 73);sadness
+This pain won't go away. (example 75);sadness
+Wow, I didn't expect that! (example 25);surprise
+I'm smiling from ear to ear. (example 44);joy
+I'm so surprised right now. (example 110);surprise
+I feel so alone right now. (example 89);sadness
+I feel so alone right now. (example 35);sadness
+That was totally unexpected. (example 121);surprise
+Wow, I didn't expect that! (example 78);surprise
+That was totally unexpected. (example 1);surprise
+It's a gloomy and sad day. (example 92);sadness
+What if something bad happens? (example 8);fear
+I can't stop shaking. (example 5);fear
+What a shock! (example 40);surprise
+Life is beautiful and full of joy. (example 40);joy
+Life is beautiful and full of joy. (example 71);joy
+I can't believe this happened! (example 102);anger
+What a shock! (example 8);surprise
+Unbelievable! (example 72);surprise
+My heart is full of love. (example 15);love
+I feel so connected to you. (example 20);love
+I feel so happy today! (example 83);joy
+I'm smiling from ear to ear. (example 52);joy
+I'm really scared right now. (example 59);fear
+Everything is so frustrating. (example 16);anger
+I can't stop shaking. (example 12);fear
+I can't stop shaking. (example 54);fear
+I'm so surprised right now. (example 17);surprise
+Everything is so frustrating. (example 24);anger
+I want to scream! (example 66);anger
+This pain won't go away. (example 64);sadness
+This made my day amazing. (example 123);joy
+I'm full of anxiety. (example 74);fear
+Tears keep falling. (example 125);sadness
+This is pure affection. (example 112);love
+I can't believe this happened! (example 88);anger
+This is pure affection. (example 85);love
+Unbelievable! (example 12);surprise
+I'm so mad right now! (example 33);anger
+I feel so connected to you. (example 60);love
+I want to scream! (example 38);anger
+That was totally unexpected. (example 86);surprise
+I'm smiling from ear to ear. (example 93);joy
+I'm feeling really down. (example 12);sadness
+This made my day amazing. (example 99);joy
+I'm smiling from ear to ear. (example 11);joy
+I can't believe this happened! (example 51);anger
+Life is beautiful and full of joy. (example 117);joy
+I feel so alone right now. (example 84);sadness
+Tears keep falling. (example 96);sadness
+Tears keep falling. (example 14);sadness
+That was totally unexpected. (example 46);surprise
+Wow, I didn't expect that! (example 93);surprise
+I'm so mad right now! (example 58);anger
+I'm so surprised right now. (example 56);surprise
+This made my day amazing. (example 87);joy
+This made my day amazing. (example 18);joy
+What a shock! (example 59);surprise
+Everything is so frustrating. (example 10);anger
+I can't believe this happened! (example 85);anger
+I'm really scared right now. (example 32);fear
+I feel so alone right now. (example 76);sadness
+You're everything to me. (example 78);love
+I'm so surprised right now. (example 87);surprise
+What if something bad happens? (example 111);fear
+I can't believe this happened! (example 114);anger
+Everything is going my way! (example 38);joy
+Everything is going my way! (example 37);joy
+I can't believe this happened! (example 8);anger
+What if something bad happens? (example 67);fear
+I can't stop shaking. (example 120);fear
+Wow, I didn't expect that! (example 120);surprise
+I'm so surprised right now. (example 73);surprise
+Everything is going my way! (example 124);joy
+This made my day amazing. (example 74);joy
+My heart is full of love. (example 71);love
+Wow, I didn't expect that! (example 81);surprise
+This situation is terrifying. (example 71);fear
+This is pure affection. (example 37);love
+I feel so alone right now. (example 91);sadness
+I'm full of anxiety. (example 23);fear
+This pain won't go away. (example 23);sadness
+I'm so mad right now! (example 59);anger
+What if something bad happens? (example 107);fear
+I feel so connected to you. (example 110);love
+I'm really scared right now. (example 34);fear
+This made my day amazing. (example 109);joy
+Wow, I didn't expect that! (example 60);surprise
+I'm so surprised right now. (example 111);surprise
+This situation is terrifying. (example 36);fear
+I'm full of anxiety. (example 2);fear
+My heart is full of love. (example 83);love
+I want to scream! (example 124);anger
+I can't stop shaking. (example 53);fear
+I'm so mad right now! (example 21);anger
+I'm full of anxiety. (example 4);fear
+That was totally unexpected. (example 104);surprise
+I'm so mad right now! (example 105);anger
+That was totally unexpected. (example 36);surprise
+I'm smiling from ear to ear. (example 111);joy
+Tears keep falling. (example 102);sadness
+I feel so happy today! (example 58);joy
+I'm smiling from ear to ear. (example 115);joy
+I feel so happy today! (example 70);joy
+I'm full of anxiety. (example 112);fear
+My heart is full of love. (example 14);love
+This makes me furious. (example 101);anger
+This is pure affection. (example 3);love
+This made my day amazing. (example 7);joy
+Everything is so frustrating. (example 31);anger
+I love you so much. (example 95);love
+Tears keep falling. (example 122);sadness
+I want to scream! (example 86);anger
+This pain won't go away. (example 41);sadness
+This made my day amazing. (example 64);joy
+I feel so happy today! (example 27);joy
+I'm really scared right now. (example 38);fear
+Life is beautiful and full of joy. (example 98);joy
+What a shock! (example 53);surprise
+I love you so much. (example 122);love
+I feel so connected to you. (example 41);love
+I'm so mad right now! (example 27);anger
+That was totally unexpected. (example 31);surprise
+I feel so alone right now. (example 10);sadness
+This pain won't go away. (example 22);sadness
+Unbelievable! (example 3);surprise
+You're everything to me. (example 89);love
+I love you so much. (example 38);love
+You're everything to me. (example 13);love
+Wow, I didn't expect that! (example 68);surprise
+I'm feeling really down. (example 51);sadness
+I'm full of anxiety. (example 40);fear
+I feel so happy today! (example 118);joy
+I'm so mad right now! (example 111);anger
+It's a gloomy and sad day. (example 32);sadness
+I love you so much. (example 19);love
+Life is beautiful and full of joy. (example 116);joy
+What a shock! (example 4);surprise
+This makes me furious. (example 26);anger
+What a shock! (example 79);surprise
+This situation is terrifying. (example 22);fear
+I'm feeling really down. (example 2);sadness
+My heart is full of love. (example 25);love
+I can't believe this happened! (example 82);anger
+I feel so alone right now. (example 98);sadness
+I'm smiling from ear to ear. (example 47);joy
+This situation is terrifying. (example 96);fear
+I want to scream! (example 113);anger
+I feel so alone right now. (example 74);sadness
+I feel so alone right now. (example 5);sadness
+I'm full of anxiety. (example 6);fear
+I love you so much. (example 69);love
+I'm feeling really down. (example 1);sadness
+This makes me furious. (example 57);anger
+I feel so alone right now. (example 19);sadness
+Tears keep falling. (example 81);sadness
+Life is beautiful and full of joy. (example 29);joy
+I'm smiling from ear to ear. (example 86);joy
+I'm full of anxiety. (example 69);fear
+That was totally unexpected. (example 91);surprise
+Tears keep falling. (example 18);sadness
+I love you so much. (example 101);love
+I want to scream! (example 96);anger
+I can't stop shaking. (example 85);fear
+This situation is terrifying. (example 118);fear
+This pain won't go away. (example 6);sadness
+My heart is full of love. (example 34);love
+Life is beautiful and full of joy. (example 78);joy
+I love you so much. (example 5);love
+Unbelievable! (example 63);surprise
+This makes me furious. (example 73);anger
+This made my day amazing. (example 9);joy
+Wow, I didn't expect that! (example 10);surprise
+I feel so happy today! (example 81);joy
+This made my day amazing. (example 51);joy
+I feel so connected to you. (example 36);love
+What if something bad happens? (example 81);fear
+This is pure affection. (example 42);love
+What if something bad happens? (example 10);fear
+This makes me furious. (example 45);anger
+This makes me furious. (example 61);anger
+I'm feeling really down. (example 93);sadness
+Everything is going my way! (example 84);joy
+It's a gloomy and sad day. (example 111);sadness
+I'm so mad right now! (example 125);anger
+It's a gloomy and sad day. (example 29);sadness
+My heart is full of love. (example 124);love
+This makes me furious. (example 109);anger
+That was totally unexpected. (example 20);surprise
+This made my day amazing. (example 82);joy
+I feel so connected to you. (example 123);love
+It's a gloomy and sad day. (example 71);sadness
+What a shock! (example 90);surprise
+I feel so connected to you. (example 76);love
+I can't stop shaking. (example 19);fear
+I want to scream! (example 48);anger
+I'm feeling really down. (example 68);sadness
+Life is beautiful and full of joy. (example 1);joy
+I feel so connected to you. (example 17);love
+This situation is terrifying. (example 68);fear
+You're everything to me. (example 4);love
+What a shock! (example 29);surprise
+What a shock! (example 11);surprise
+What a shock! (example 27);surprise
+I feel so alone right now. (example 113);sadness
+I'm full of anxiety. (example 47);fear
+I'm so mad right now! (example 107);anger
+This made my day amazing. (example 5);joy
+I feel so alone right now. (example 117);sadness
+I feel so happy today! (example 107);joy
+I can't believe this happened! (example 6);anger
+I'm so surprised right now. (example 28);surprise
+I'm full of anxiety. (example 117);fear
+I'm so surprised right now. (example 22);surprise
+Everything is so frustrating. (example 50);anger
+I'm so mad right now! (example 22);anger
+I'm smiling from ear to ear. (example 19);joy
+I can't believe this happened! (example 72);anger
+This made my day amazing. (example 28);joy
+Wow, I didn't expect that! (example 21);surprise
+I'm full of anxiety. (example 104);fear
+My heart is full of love. (example 120);love
+What if something bad happens? (example 61);fear
+I can't stop shaking. (example 1);fear
+I love you so much. (example 77);love
+What a shock! (example 82);surprise
+I'm so mad right now! (example 110);anger
+Tears keep falling. (example 119);sadness
+I'm so surprised right now. (example 94);surprise
+I'm smiling from ear to ear. (example 121);joy
+My heart is full of love. (example 11);love
+Everything is so frustrating. (example 70);anger
+This is pure affection. (example 105);love
+I feel so alone right now. (example 54);sadness
+My heart is full of love. (example 115);love
+I love you so much. (example 88);love
+What a shock! (example 38);surprise
+I'm so surprised right now. (example 58);surprise
+Tears keep falling. (example 62);sadness
+This makes me furious. (example 75);anger
+I'm so surprised right now. (example 42);surprise
+Wow, I didn't expect that! (example 100);surprise
+I can't stop shaking. (example 51);fear
+What if something bad happens? (example 21);fear
+I'm so surprised right now. (example 67);surprise
+I feel so happy today! (example 89);joy
+I'm smiling from ear to ear. (example 80);joy
+I feel so alone right now. (example 16);sadness
+Everything is so frustrating. (example 12);anger
+What if something bad happens? (example 27);fear
+I feel so alone right now. (example 101);sadness
+This made my day amazing. (example 79);joy
+I can't believe this happened! (example 89);anger
+What a shock! (example 103);surprise
+You're everything to me. (example 100);love
+You're everything to me. (example 121);love
+This made my day amazing. (example 49);joy
+Wow, I didn't expect that! (example 97);surprise
+That was totally unexpected. (example 49);surprise
+This situation is terrifying. (example 123);fear
+This is pure affection. (example 94);love
+Everything is so frustrating. (example 3);anger
+Everything is so frustrating. (example 116);anger
+I'm so surprised right now. (example 92);surprise
+Everything is going my way! (example 10);joy
+Wow, I didn't expect that! (example 16);surprise
+I'm feeling really down. (example 124);sadness
+I love you so much. (example 92);love
+Everything is going my way! (example 69);joy
+Everything is going my way! (example 34);joy
+It's a gloomy and sad day. (example 53);sadness
+I love you so much. (example 45);love
+Wow, I didn't expect that! (example 71);surprise
+That was totally unexpected. (example 65);surprise
+I'm really scared right now. (example 73);fear
+This made my day amazing. (example 88);joy
+I feel so alone right now. (example 70);sadness
+Everything is so frustrating. (example 17);anger
+My heart is full of love. (example 51);love
+Life is beautiful and full of joy. (example 90);joy
+I feel so connected to you. (example 62);love
+I feel so connected to you. (example 111);love
+This makes me furious. (example 112);anger
+This is pure affection. (example 16);love
+My heart is full of love. (example 52);love
+This is pure affection. (example 29);love
+Everything is so frustrating. (example 46);anger
+I'm so mad right now! (example 100);anger
+I feel so happy today! (example 39);joy
+I feel so alone right now. (example 56);sadness
+Everything is so frustrating. (example 52);anger
+Life is beautiful and full of joy. (example 57);joy
+I'm feeling really down. (example 24);sadness
+I can't believe this happened! (example 74);anger
+I feel so alone right now. (example 40);sadness
+I'm so surprised right now. (example 45);surprise
+Everything is so frustrating. (example 32);anger
+Unbelievable! (example 80);surprise
+I'm feeling really down. (example 121);sadness
+This pain won't go away. (example 85);sadness
+I'm really scared right now. (example 37);fear
+I'm full of anxiety. (example 102);fear
+It's a gloomy and sad day. (example 108);sadness
+Tears keep falling. (example 33);sadness
+Tears keep falling. (example 20);sadness
+What if something bad happens? (example 41);fear
+What a shock! (example 102);surprise
+I feel so alone right now. (example 120);sadness
+I'm really scared right now. (example 3);fear
+This pain won't go away. (example 44);sadness
+Unbelievable! (example 55);surprise
+I feel so happy today! (example 91);joy
+I feel so connected to you. (example 49);love
+My heart is full of love. (example 79);love
+I want to scream! (example 98);anger
+My heart is full of love. (example 82);love
+This pain won't go away. (example 82);sadness
+My heart is full of love. (example 53);love
+Wow, I didn't expect that! (example 101);surprise
+I love you so much. (example 117);love
+This situation is terrifying. (example 57);fear
+I'm full of anxiety. (example 86);fear
+I'm so surprised right now. (example 14);surprise
+My heart is full of love. (example 48);love
+What a shock! (example 76);surprise
+I'm feeling really down. (example 66);sadness
+It's a gloomy and sad day. (example 7);sadness
+What if something bad happens? (example 83);fear
+Tears keep falling. (example 11);sadness
+Wow, I didn't expect that! (example 52);surprise
+Wow, I didn't expect that! (example 54);surprise
+Life is beautiful and full of joy. (example 72);joy
+Everything is so frustrating. (example 120);anger
+I want to scream! (example 1);anger
+This pain won't go away. (example 25);sadness
+This makes me furious. (example 47);anger
+That was totally unexpected. (example 33);surprise
+I'm really scared right now. (example 78);fear
+I can't stop shaking. (example 14);fear
+What a shock! (example 32);surprise
+My heart is full of love. (example 35);love
+I'm so mad right now! (example 76);anger
+This makes me furious. (example 44);anger
+I'm so surprised right now. (example 50);surprise
+I feel so alone right now. (example 3);sadness
+Everything is going my way! (example 30);joy
+What a shock! (example 69);surprise
+I feel so alone right now. (example 63);sadness
+What if something bad happens? (example 25);fear
+I'm really scared right now. (example 17);fear
+This makes me furious. (example 7);anger
+This situation is terrifying. (example 26);fear
+This pain won't go away. (example 48);sadness
+I can't believe this happened! (example 95);anger
+This situation is terrifying. (example 62);fear
+Everything is going my way! (example 50);joy
+What if something bad happens? (example 44);fear
+This pain won't go away. (example 17);sadness
+This makes me furious. (example 69);anger
+What if something bad happens? (example 42);fear
+Unbelievable! (example 85);surprise
+I can't believe this happened! (example 30);anger
+That was totally unexpected. (example 114);surprise
+I'm so surprised right now. (example 26);surprise
+My heart is full of love. (example 55);love
+You're everything to me. (example 6);love
+I'm so surprised right now. (example 30);surprise
+I'm really scared right now. (example 121);fear
+I feel so alone right now. (example 34);sadness
+I can't believe this happened! (example 90);anger
+I'm so mad right now! (example 43);anger
+This situation is terrifying. (example 79);fear
+I feel so connected to you. (example 22);love
+I'm full of anxiety. (example 84);fear
+Everything is so frustrating. (example 118);anger
+I'm so surprised right now. (example 39);surprise
+Everything is going my way! (example 65);joy
+I can't stop shaking. (example 29);fear
+I can't stop shaking. (example 18);fear
+You're everything to me. (example 114);love
+I feel so connected to you. (example 59);love
+I'm feeling really down. (example 79);sadness
+I feel so alone right now. (example 110);sadness
+That was totally unexpected. (example 119);surprise
+That was totally unexpected. (example 88);surprise
+Life is beautiful and full of joy. (example 43);joy
+What if something bad happens? (example 119);fear
+I feel so connected to you. (example 68);love
+Wow, I didn't expect that! (example 118);surprise
+This makes me furious. (example 99);anger
+Everything is so frustrating. (example 42);anger
+This situation is terrifying. (example 125);fear
+You're everything to me. (example 46);love
+Everything is so frustrating. (example 67);anger
+Wow, I didn't expect that! (example 15);surprise
+Tears keep falling. (example 8);sadness
+I can't believe this happened! (example 2);anger
+Wow, I didn't expect that! (example 57);surprise
+Everything is going my way! (example 24);joy
+What a shock! (example 66);surprise
+I love you so much. (example 39);love
+I'm smiling from ear to ear. (example 125);joy
+I feel so connected to you. (example 66);love
+I'm really scared right now. (example 106);fear
+I feel so alone right now. (example 26);sadness
+This pain won't go away. (example 57);sadness
+I love you so much. (example 97);love
+This is pure affection. (example 64);love
+This is pure affection. (example 56);love
+This is pure affection. (example 23);love
+Life is beautiful and full of joy. (example 106);joy
+This made my day amazing. (example 45);joy
+This is pure affection. (example 30);love
+Everything is going my way! (example 68);joy
+This made my day amazing. (example 108);joy
+I'm so surprised right now. (example 41);surprise
+I'm really scared right now. (example 20);fear
+I love you so much. (example 28);love
+Wow, I didn't expect that! (example 37);surprise
+I'm feeling really down. (example 9);sadness
+Everything is going my way! (example 42);joy
+This pain won't go away. (example 105);sadness
+I feel so connected to you. (example 98);love
+I'm full of anxiety. (example 70);fear
+This made my day amazing. (example 22);joy
+What if something bad happens? (example 50);fear
+I feel so alone right now. (example 69);sadness
+I love you so much. (example 10);love
+I'm really scared right now. (example 65);fear
+I can't stop shaking. (example 114);fear
+I can't stop shaking. (example 63);fear
+I can't believe this happened! (example 20);anger
+I feel so alone right now. (example 15);sadness
+Tears keep falling. (example 83);sadness
+I love you so much. (example 33);love
+I'm smiling from ear to ear. (example 92);joy
+This makes me furious. (example 92);anger
+This is pure affection. (example 27);love
+I feel so alone right now. (example 55);sadness
+Everything is going my way! (example 63);joy
+I'm so mad right now! (example 4);anger
+I feel so alone right now. (example 47);sadness
+Tears keep falling. (example 123);sadness
+I'm smiling from ear to ear. (example 14);joy
+What if something bad happens? (example 9);fear
+This makes me furious. (example 93);anger
+I'm really scared right now. (example 28);fear
+I feel so alone right now. (example 94);sadness
+I'm so surprised right now. (example 113);surprise
+This made my day amazing. (example 97);joy
+I can't believe this happened! (example 13);anger
+This makes me furious. (example 79);anger
+I can't stop shaking. (example 72);fear
+Everything is so frustrating. (example 71);anger
+Everything is so frustrating. (example 37);anger
+I want to scream! (example 25);anger
+That was totally unexpected. (example 123);surprise
+Wow, I didn't expect that! (example 47);surprise
+This made my day amazing. (example 6);joy
+That was totally unexpected. (example 107);surprise
+You're everything to me. (example 43);love
+Life is beautiful and full of joy. (example 77);joy
+My heart is full of love. (example 57);love
+I want to scream! (example 19);anger
+I love you so much. (example 90);love
+This pain won't go away. (example 52);sadness
+I want to scream! (example 15);anger
+I'm so mad right now! (example 29);anger
+I'm so mad right now! (example 117);anger
+This situation is terrifying. (example 124);fear
+I'm feeling really down. (example 87);sadness
+That was totally unexpected. (example 7);surprise
+I'm so surprised right now. (example 61);surprise
+I can't believe this happened! (example 83);anger
+This makes me furious. (example 119);anger
+This pain won't go away. (example 99);sadness
+It's a gloomy and sad day. (example 114);sadness
+I'm so surprised right now. (example 48);surprise
+This situation is terrifying. (example 35);fear
+I feel so happy today! (example 62);joy
+I can't believe this happened! (example 63);anger
+Wow, I didn't expect that! (example 18);surprise
+What if something bad happens? (example 95);fear
+That was totally unexpected. (example 108);surprise
+I'm full of anxiety. (example 80);fear
+Everything is so frustrating. (example 123);anger
+Life is beautiful and full of joy. (example 101);joy
+I'm feeling really down. (example 107);sadness
+Wow, I didn't expect that! (example 109);surprise
+I'm so mad right now! (example 94);anger
+I feel so alone right now. (example 60);sadness
+This situation is terrifying. (example 93);fear
+Unbelievable! (example 6);surprise
+What if something bad happens? (example 105);fear
+That was totally unexpected. (example 125);surprise
+I want to scream! (example 106);anger
+Everything is so frustrating. (example 115);anger
+I'm full of anxiety. (example 103);fear
+It's a gloomy and sad day. (example 61);sadness
+This situation is terrifying. (example 94);fear
+I feel so alone right now. (example 103);sadness
+This makes me furious. (example 36);anger
+It's a gloomy and sad day. (example 97);sadness
+I feel so happy today! (example 41);joy
+I'm so surprised right now. (example 24);surprise
+This made my day amazing. (example 35);joy
+Everything is so frustrating. (example 97);anger
+You're everything to me. (example 8);love
+What if something bad happens? (example 101);fear
+This made my day amazing. (example 122);joy
+That was totally unexpected. (example 106);surprise
+I feel so alone right now. (example 106);sadness
+I'm smiling from ear to ear. (example 46);joy
+I'm smiling from ear to ear. (example 2);joy
+I'm so surprised right now. (example 89);surprise
+I'm smiling from ear to ear. (example 102);joy
+My heart is full of love. (example 93);love
+It's a gloomy and sad day. (example 72);sadness
+You're everything to me. (example 86);love
+Wow, I didn't expect that! (example 44);surprise
+I'm so mad right now! (example 55);anger
+What if something bad happens? (example 56);fear
+Unbelievable! (example 122);surprise
+I'm smiling from ear to ear. (example 66);joy
+Life is beautiful and full of joy. (example 26);joy
+Tears keep falling. (example 27);sadness
+Everything is going my way! (example 73);joy
+I feel so alone right now. (example 43);sadness
+This is pure affection. (example 24);love
+This situation is terrifying. (example 16);fear
+I'm smiling from ear to ear. (example 33);joy
+I feel so happy today! (example 20);joy
+I feel so connected to you. (example 63);love
+I feel so alone right now. (example 86);sadness
+I'm so mad right now! (example 65);anger
+I feel so happy today! (example 76);joy
+Everything is going my way! (example 95);joy
+I want to scream! (example 5);anger
+I feel so happy today! (example 60);joy
+Life is beautiful and full of joy. (example 15);joy
+You're everything to me. (example 2);love
+This pain won't go away. (example 78);sadness
+I feel so connected to you. (example 26);love
+You're everything to me. (example 102);love
+I feel so connected to you. (example 47);love
+What if something bad happens? (example 64);fear
+I'm really scared right now. (example 24);fear
+I feel so connected to you. (example 87);love
+This situation is terrifying. (example 43);fear
+I'm feeling really down. (example 90);sadness
+I feel so connected to you. (example 44);love
+I'm smiling from ear to ear. (example 23);joy
+I'm so surprised right now. (example 5);surprise
+I feel so connected to you. (example 40);love
+What a shock! (example 124);surprise
+I'm feeling really down. (example 21);sadness
+I'm so surprised right now. (example 35);surprise
+I can't stop shaking. (example 122);fear
+I want to scream! (example 39);anger
+I'm really scared right now. (example 110);fear
+This situation is terrifying. (example 39);fear
+I want to scream! (example 28);anger
+I'm feeling really down. (example 30);sadness
+My heart is full of love. (example 65);love
+I'm smiling from ear to ear. (example 112);joy
+What a shock! (example 96);surprise
+What a shock! (example 62);surprise
+I'm feeling really down. (example 88);sadness
+You're everything to me. (example 104);love
+What a shock! (example 43);surprise
+Tears keep falling. (example 104);sadness
+I feel so happy today! (example 36);joy
+This is pure affection. (example 32);love
+I feel so alone right now. (example 115);sadness
+I love you so much. (example 107);love
+My heart is full of love. (example 12);love
+I feel so happy today! (example 21);joy
+I want to scream! (example 108);anger
+This makes me furious. (example 56);anger
+This situation is terrifying. (example 58);fear
+I'm really scared right now. (example 91);fear
+I'm smiling from ear to ear. (example 4);joy
+Everything is so frustrating. (example 80);anger
+I'm so mad right now! (example 53);anger
+I'm feeling really down. (example 58);sadness
+This pain won't go away. (example 42);sadness
+I'm full of anxiety. (example 49);fear
+I'm feeling really down. (example 50);sadness
+Tears keep falling. (example 77);sadness
+Life is beautiful and full of joy. (example 17);joy
+I'm smiling from ear to ear. (example 103);joy
+My heart is full of love. (example 119);love
+This makes me furious. (example 91);anger
+This situation is terrifying. (example 15);fear
+I'm really scared right now. (example 11);fear
+This is pure affection. (example 80);love
+You're everything to me. (example 21);love
+I'm smiling from ear to ear. (example 75);joy
+I'm so mad right now! (example 68);anger
+What if something bad happens? (example 109);fear
+I want to scream! (example 81);anger
+I feel so happy today! (example 13);joy
+I want to scream! (example 54);anger
+Everything is so frustrating. (example 84);anger
+I'm really scared right now. (example 60);fear
+I'm feeling really down. (example 46);sadness
+Everything is going my way! (example 59);joy
+Tears keep falling. (example 38);sadness
+I feel so happy today! (example 120);joy
+I want to scream! (example 18);anger
+That was totally unexpected. (example 2);surprise
+This made my day amazing. (example 48);joy
+This is pure affection. (example 70);love
+What if something bad happens? (example 108);fear
+What if something bad happens? (example 92);fear
+I want to scream! (example 121);anger
+This situation is terrifying. (example 33);fear
+I feel so happy today! (example 85);joy
+I can't stop shaking. (example 100);fear
+I love you so much. (example 73);love
+I'm really scared right now. (example 31);fear
+I feel so happy today! (example 100);joy
+This pain won't go away. (example 118);sadness
+Everything is so frustrating. (example 34);anger
+Unbelievable! (example 95);surprise
+Everything is going my way! (example 32);joy
+I love you so much. (example 74);love
+I'm so surprised right now. (example 13);surprise
+I'm feeling really down. (example 100);sadness
+It's a gloomy and sad day. (example 95);sadness
+Life is beautiful and full of joy. (example 16);joy
