@@ -21,7 +21,8 @@ The model is fine-tuned on a translated version of the [Kaggle Emotion Dataset](
 
 ## 📁 Project Structure
 
-![image](https://github.com/user-attachments/assets/d81fd5c2-d5a3-4b90-9c7a-39d3b1e21610)
+![image](https://github.com/user-attachments/assets/cc554394-444e-40ba-8dd4-7b1902fe52bf)
+
 
 
 ## 📊 Methodology
