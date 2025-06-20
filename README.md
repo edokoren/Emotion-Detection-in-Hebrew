@@ -84,26 +84,27 @@ The model classifies each sentence into one of these 6 emotions:
 
 ---
 
-## 🚀 Installation
+## ⚙️ Installation
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
-## 🎓 Running Training
+## 💻 Run Training
 
-
+```bash
 python train_model.py
-
+```
 
 ---
 
-## 🔍 Running Inference + Results
+## 💻 Run Inference
 
-
+```bash
 python inference.py
+```
 
 
 ---
