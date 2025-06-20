@@ -52,27 +52,22 @@ The project includes:
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](confusion_matrix2.png)
+![image](https://github.com/user-attachments/assets/247cb6a4-f698-4192-a3a4-585f25dc2a70)
+
 
 ---
 
 ## 🎭 F1 Score by Emotion
 
-![F1 Score](f1_scores2.png)
+![image](https://github.com/user-attachments/assets/3f388e49-1116-4668-94a9-bec1d0dfde43)
+
 
 ---
 
 ## 🗂 Project Structure
 
-| File / Folder               | Description                          |
-|-----------------------------|--------------------------------------|
-| train_balanced_1000.txt      | Training dataset (1000 sentences)     |
-| test_real_hard_150.txt       | Real hard test set (150 sentences)    |
-| hebert_emotion_trained/      | Trained model directory               |
-| train_model.py               | Training script                       |
-| inference.py                 | Inference & evaluation script         |
-| requirements.txt             | Python dependencies                   |
-| README.md                    | Project description                   |
+![image](https://github.com/user-attachments/assets/e0e7f67f-3832-4d2f-9a08-bc155592531b)
+
 
 ---
 
