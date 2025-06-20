@@ -29,7 +29,7 @@ The project includes:
 ## 🧠 Model
 
 - **Base model**: [avichr/HeBERT](https://huggingface.co/avichr/heBERT)
-- **Fine-tuned epochs**: 4
+- **Fine-tuned epochs**: 5
 - **Train set**: 1000 high-quality labeled examples
 - **Test set**: 150 realistic challenging examples
 
