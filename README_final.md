@@ -20,13 +20,13 @@ The model was fine-tuned on a custom dataset of 1000 examples (`train_balanced_1
 ## 🧠 Model
 
 - **Base model**: [avichr/HeBERT](https://huggingface.co/avichr/heBERT)
-- **Fine-tuned epochs**: 4
+- **Fine-tuned epochs**: 5
 - **Train set**: 1000 high-quality labeled examples
 - **Test set**: 150 realistic challenging examples
 
 ---
 
-## 📊 Results on test_real_hard_150.txt
+## 📊 Results on test_real_150.txt
 
 **Overall Accuracy**: `0.70` ✅
 
@@ -43,25 +43,22 @@ The model was fine-tuned on a custom dataset of 1000 examples (`train_balanced_1
 
 ## 🔍 Confusion Matrix
 
-![Confusion Matrix](confusion_matrix2.png)
+![image](https://github.com/user-attachments/assets/52eb3d1a-4470-4f40-a3f7-91a72800f6ff)
+
 
 ---
 
 ## 🎭 F1 Score by Emotion
 
-![F1 Score](f1_scores2.png)
+![image](https://github.com/user-attachments/assets/abe2082c-737b-49e2-be18-83260e4bbbe9)
+
 
 ---
 
 ## 💾 Files
 
-| File                          | Description                         |
-|-------------------------------|-------------------------------------|
-| `train_balanced_1000.txt`      | Training data (1000 examples)        |
-| `test_real_hard_150.txt`       | Challenging real-world test set      |
-| `train_model.py`               | Training script                      |
-| `inference.py`                 | Inference + evaluation script        |
-| `hebert_emotion_trained/`      | Fine-tuned model                     |
+![image](https://github.com/user-attachments/assets/33b177c2-eabf-45e1-abbc-15f2be924bbd)
+
 
 ---
 
@@ -79,3 +76,4 @@ The model was fine-tuned on a custom dataset of 1000 examples (`train_balanced_1
 * Yotam Hasid 
 * Amit Keinan 
 * Edo Koren
+  
