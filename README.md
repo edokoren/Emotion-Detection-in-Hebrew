@@ -26,6 +26,12 @@ The project includes:
 
 ---
 
+Visual Abstract:
+
+![image](https://github.com/user-attachments/assets/6a91b180-b578-4f21-b115-23b0ea313561)
+
+---
+
 ## 🧠 Model
 
 - **Base model**: [avichr/HeBERT](https://huggingface.co/avichr/heBERT)
